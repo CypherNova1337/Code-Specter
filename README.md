@@ -1,4 +1,4 @@
-Code Specter 👻
+## Code Specter 👻
 
 A simple, powerful browser bookmarklet to scan the client-side source code of any webpage for developer notes, comments, and potentially sensitive function patterns.
 
@@ -49,11 +49,6 @@ Get the Raw File URL:
   Copy the URL from your browser's address bar. It should look something like https://raw.githubusercontent.com/CypherNova1337/Code-Specter/refs/heads/main/Code%20Specter.js.
 
 Create the Bookmarklet:
-
-  Copy the small loader code below:
-        JavaScript
-
-        javascript:(function(){const script=document.createElement('script');script.src='YOUR_RAW_URL_HERE';document.body.appendChild(script);})();
 
   Right-click your bookmarks bar and select Add page... or New Bookmark....
 
