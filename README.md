@@ -54,7 +54,7 @@ Create the Bookmarklet:
 
   For Name, enter Code Specter.
 
-  For URL, paste the loader code. Crucially, replace YOUR_RAW_URL_HERE with the actual raw URL you copied in step 1.
+  For URL, paste the loader code.
 
   Save the bookmark.
 
