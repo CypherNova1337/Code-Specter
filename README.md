@@ -22,9 +22,6 @@ This bookmarklet operates only on the client-side. It can only analyze the HTML,
 
 Installation
 
-You can install Code Specter in one of two ways. The loader method is recommended for automatic updates.
-
-This method embeds the entire script into the bookmark. It's guaranteed to work on any site but requires you to manually update the bookmark if the code changes.
 
 Right-click your bookmarks bar and select Add page... (Chrome) or New Bookmark... (Firefox).
 
